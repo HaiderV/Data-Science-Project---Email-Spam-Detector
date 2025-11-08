@@ -1,4 +1,4 @@
-Data-Science-Project---Email-Spam-Detector
+<h1>Data-Science-Project---Email-Spam-Detector</h1>
 A machine learning-based project that classifies emails as Spam or Not Spam.
 It uses NLP techniques to clean and tokenize text, then applies a trained model to predict spam probability.
 
