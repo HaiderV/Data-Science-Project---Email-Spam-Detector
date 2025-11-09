@@ -24,5 +24,6 @@ How it works?
 <li>The model predicts whether it's spam or not</li>
 <li>Shows output instantly</li>
 </ul>
-
+<br>
+<br>
 Model download link : https://drive.google.com/file/d/1cGYbS-zxa0nDbs6qMym6M1Tcm1RltKsV/view?usp=drive_link
