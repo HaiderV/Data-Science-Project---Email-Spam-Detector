@@ -26,4 +26,5 @@ How it works?
 </ul>
 <br>
 <br>
-Model download link : https://drive.google.com/file/d/1cGYbS-zxa0nDbs6qMym6M1Tcm1RltKsV/view?usp=drive_link
+Model download link :https://drive.google.com/uc?export=download&id=1cGYbS-zxa0nDbs6qMym6M1Tcm1RltKsV
+
