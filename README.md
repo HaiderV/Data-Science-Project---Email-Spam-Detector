@@ -21,6 +21,6 @@ How it works?
 <ol>
 <li>Enter an email</li>
 <li>The text is processed and converted into numerical features</li>
-<li>The model predicts whether it's spam</li>
+<li>The model predicts whether it's spam or not</li>
 <li>Shows output instantly</li>
 </ul>
